@@ -1,4 +1,4 @@
-'''
+
  
 1- si es Palindromo...
 
@@ -146,4 +146,4 @@ def create_n_characs(number, str):
 create_n_characs(3,"x")
 
 
-'''
+
